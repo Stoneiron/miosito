@@ -1,5 +1,5 @@
 baseurl = "https://Stoneiron.github.io/miosito/"
-title = "Site Title"
+title = "Pietro Ferraro"
 theme = "pulp"
 publishDir = "docs"
 canonifyurls = true
@@ -12,12 +12,11 @@ hasCJKLanguage = true
   series = "series"
 
 [params]
-    author = "Your Name"
-    avatar = "avatar.jpg"
+    author = "Pietro Ferraro"
+    avatar = "pf.jpg"
     favicon = "favicon.ico"
     description = """
-        Please write anything here.
-        Profiles, backgrounds, favorite things etc.
+        Laureato in ingegneria informatica e delle telecomunicazioni.
     """
     publicationYear = "2019"
     listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
@@ -49,5 +48,5 @@ hasCJKLanguage = true
 [[menu.main]]
     name = "Email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
-    url = "mailto:username@example.com"
+    url = "mailto:mail@pietroferraro.it"
     weight = 40
