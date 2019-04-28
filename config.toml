@@ -1,6 +1,7 @@
 baseurl = "https://example.com/"
 title = "Site Title"
 theme = "pulp"
+publishDir = "docs"
 canonifyurls = true
 hasCJKLanguage = true
 # pygmentsCodefences = true
