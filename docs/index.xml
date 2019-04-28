@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pietro Ferraro</title>
-    <link>https://Stoneiron.github.io/miosito/</link>
+    <link>https://stoneiron.github.io/miosito/</link>
     <description>Recent content on Pietro Ferraro</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://Stoneiron.github.io/miosito/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stoneiron.github.io/miosito/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

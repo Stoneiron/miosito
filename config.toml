@@ -1,4 +1,4 @@
-baseurl = "https://Stoneiron.github.io/miosito/"
+baseurl = "https://stoneiron.github.io/miosito/"
 title = "Pietro Ferraro"
 theme = "pulp"
 publishDir = "docs"
