@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://Stoneiron.github.io/miosito/"
 title = "Site Title"
 theme = "pulp"
 publishDir = "docs"
