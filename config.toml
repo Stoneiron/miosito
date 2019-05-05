@@ -30,19 +30,19 @@ hasCJKLanguage = true
 [[menu.main]]
     name = "LinkedIn"
     pre = "<i class='fab fa-linkedin'></i>" #Choose your favorite font from Font Awesome
-    url = "https://www.linkedin.com/in/pietro-ferraro-6b7b79b7"
+    url = "http://www.linkedin.com/in/pietro-ferraro-6b7b79b7"
     weight = 10
 
 [[menu.main]]
     name = "Facebook"
     pre = "<i class='fab fa-facebook'></i>"
-    url = "https://www.facebook.com/pietroeffe1"
+    url = "http://www.facebook.com/pietroeffe1"
     weight = 20
 
 [[menu.main]]
     name = "Instagram"
     pre = "<i class='fab fa-instagram'></i>"
-    url = "https://www.instagram.com/stoneiron"
+    url = "http://www.instagram.com/stoneiron"
     weight = 30
 
 [[menu.main]]
