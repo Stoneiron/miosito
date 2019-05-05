@@ -28,21 +28,21 @@ hasCJKLanguage = true
     section = ["JSON", "HTML"]
 
 [[menu.main]]
-    name = "Blog"
-    pre = "<i class='fa fa-book-open fa-lg'></i>" #Choose your favorite font from Font Awesome
-    url = "/blog/"
+    name = "LinkedIn"
+    pre = "<i class='fab fa-linkedin'></i>" #Choose your favorite font from Font Awesome
+    url = "https://www.linkedin.com/in/pietro-ferraro-6b7b79b7"
     weight = 10
 
 [[menu.main]]
-    name = "Twitter"
-    pre = "<i class='fab fa-twitter fa-lg'></i>"
-    url = "https://twitter.com/username"
+    name = "Facebook"
+    pre = "<i class='fab fa-facebook'></i>"
+    url = "https://www.facebook.com/pietroeffe1"
     weight = 20
 
 [[menu.main]]
-    name = "GitHub"
-    pre = "<i class='fab fa-github fa-lg'></i>"
-    url = "https://github.com/username"
+    name = "Instagram"
+    pre = "<i class='fab fa-instagram'></i>"
+    url = "https://www.instagram.com/stoneiron"
     weight = 30
 
 [[menu.main]]
